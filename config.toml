@@ -82,7 +82,7 @@ paginate = 7
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "user #"
+      logoText = "www-data $"
       logoHomeLink = "/about"
 
     [languages.en.menu]
