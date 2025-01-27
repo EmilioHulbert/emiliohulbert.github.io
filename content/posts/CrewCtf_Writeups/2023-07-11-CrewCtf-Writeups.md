@@ -73,7 +73,7 @@ Volatility Foundation Volatility Framework 2.6.1
 INFO    : volatility.debug    : Determining profile based on KDBG search...
           Suggested Profile(s) : Win7SP1x86_23418, Win7SP0x86, Win7SP1x86_24000, Win7SP1x86
                      AS Layer1 : IA32PagedMemoryPae (Kernel AS)
-                     AS Layer2 : FileAddressSpace (/media/lilplucky/Attack/dump.mem)
+                     AS Layer2 : FileAddressSpace (/media/Remac/Attack/dump.mem)
                       PAE type : PAE
                            DTB : 0x185000L
                           KDBG : 0x82b3db78L
@@ -200,7 +200,7 @@ Volatility Foundation Volatility Framework 2.6.1
 INFO    : volatility.debug    : Determining profile based on KDBG search...
           Suggested Profile(s) : Win7SP1x86_23418, Win7SP0x86, Win7SP1x86_24000, Win7SP1x86
                      AS Layer1 : IA32PagedMemoryPae (Kernel AS)
-                     AS Layer2 : FileAddressSpace (/media/lilplucky/STUFF/bitclan/crewctf/forensics/memdump.raw)
+                     AS Layer2 : FileAddressSpace (/media/Remac/STUFF/bitclan/crewctf/forensics/memdump.raw)
                       PAE type : PAE
                            DTB : 0x185000L
                           KDBG : 0x82b7ab78L

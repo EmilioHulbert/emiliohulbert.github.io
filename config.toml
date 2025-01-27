@@ -65,9 +65,9 @@ paginate = 7
 [languages]
   [languages.en]
     languageName = "English"
-    title = "blog @lilplucky"
+    title = "blog @Remac"
     subtitle = "My personal blog"
-    owner = "lilplucky"
+    owner = "Remac"
     ownerDescription = "Cyber Security Researcher,Red Team,SpeedSter,System Programmer"
     keywords = ""
     copyright = ""

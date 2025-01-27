@@ -122,7 +122,7 @@ int main(void)
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#  @author: lilplucky
+#  @author: Remac
 from pwn import *
 from sys import argv as arguments
 filename="./orb_patched"
@@ -192,7 +192,7 @@ payload+=p64(elf.plt['write']) # call the write syscall in plt
 ```python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#  @author: lilplucky
+#  @author: Remac
 from pwn import *
 context.binary = elf = e = ELF("./orb_patched")
 context.log_level='critical'
